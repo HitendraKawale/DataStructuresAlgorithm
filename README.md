@@ -1,7 +1,20 @@
 ## About This Repository
 
-This repository contains a collection of Jupyter notebooks, each dedicated to a specific data structure or algorithm.
+In the repository I am implementing DSA from scratch
+Right now, the main focus is Python, mostly through Jupyter notebooks. Over time, I want to expand this repository to include Rust as I learn it, and possibly other languages as well.
 
-In every notebook, I implement the concept from scratch, demonstrate the key operations associated with it, and provide examples to build clear intuition about how it works in practice.
+Each notebook or implementation will focus on a specific topic and may include:
+- the implementation itself
+- common operations
+- examples and small walkthroughs
+- notes on when and why it is useful
+- its relevance to AI engineering and real software systems
 
-Alongside the implementation, I also explain the relevance of each topic to AI engineering. The goal is not only to understand data structures and algorithms in isolation, but also to see how they matter in real AI and software systems such as data pipelines, model training workflows, retrieval systems, optimization, and production-grade machine learning applications.
+I also want this repository to connect DSA learning with AI engineering. 
+
+## Repository Structure
+
+- `python/` — Python implementations and notebook-based exploration
+- `rust/` — Rust implementations that I plan to add in the future
+- more languages may be added later as this repository grows
+
